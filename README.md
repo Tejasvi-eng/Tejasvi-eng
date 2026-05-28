@@ -170,4 +170,4 @@ Target Areas:
 
 I believe in building projects that show both technical depth and real-world usefulness.
 
-<p align="center"> <b>Building consistently. Learning deeply. Improving every day.</b> </p> ```
+<p align="center"> <b>Building consistently. Learning deeply. Improving every day.</b> </p> 
