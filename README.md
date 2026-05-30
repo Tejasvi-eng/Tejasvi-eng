@@ -6,7 +6,7 @@
 
 ### B.Tech IT Student · SIH'25 Winner · Java Programmer · AI + Cybersecurity Enthusiast
 
-Building real-world systems across **AI**, **Cybersecurity**, **Backend Engineering**, and **Data-Driven Intelligence**.
+I build practical systems across **AI**, **Cybersecurity**, **Backend Engineering**, and **Data-Driven Intelligence**.
 
 <br/>
 
@@ -29,34 +29,38 @@ Building real-world systems across **AI**, **Cybersecurity**, **Backend Engineer
 
 ## About Me
 
-I am a third-year B.Tech Information Technology student at **Yeshwantrao Chavan College of Engineering, Nagpur**, focused on building a strong software engineering profile through problem solving, backend development, machine learning, and cybersecurity-focused systems.
+I am a third-year B.Tech Information Technology student at **Yeshwantrao Chavan College of Engineering, Nagpur**, focused on building a strong software engineering profile through **Java DSA**, **backend development**, **machine learning**, and **cybersecurity-focused systems**.
 
-My current direction is to build projects that are not only visually polished, but technically meaningful — systems involving investigation workflows, graph intelligence, ML-based risk scoring, educational visualization, and real-world decision support.
+My goal is to build projects that are not only visually polished, but technically meaningful — systems involving investigation workflows, graph intelligence, ML-based risk scoring, educational visualization, and real-world decision support.
+
+---
+
+## Technical Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Current Focus
+### Currently Building
 
-- Data Structures and Algorithms in Java
-- Backend Engineering with FastAPI
-- Machine Learning for practical systems
-- Cybersecurity and fraud detection use cases
-- Cloud and deployment fundamentals
-- Clean technical documentation
+- AI-powered investigation systems
+- Cybersecurity-focused dashboards
+- Backend APIs and data pipelines
+- ML-based risk scoring systems
+- Interactive educational tools
+- Recruiter-friendly project documentation
 
 </td>
 <td width="50%" valign="top">
 
-### Engineering Direction
+### Currently Strengthening
 
-- Software Engineering
-- Backend Development
-- AI/ML Engineering
-- Cybersecurity Engineering
-- Cloud-backed intelligent systems
-- Product-focused project building
+- Java DSA and interview problem solving
+- Backend engineering with FastAPI
+- Machine learning fundamentals
+- Graph-based intelligence
+- Cloud and deployment basics
+- System design thinking
 
 </td>
 </tr>
@@ -64,37 +68,45 @@ My current direction is to build projects that are not only visually polished, b
 
 ---
 
-## Tech Stack
-
-<div align="center">
+## Skills
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,html,css" />
-
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<br/>
+### Backend, Databases & ML Direction
 
-### Backend, ML & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,neo4j" />
-
-<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,vercel" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## Featured Work
+## Featured Projects
 
 <table>
 <tr>
@@ -102,41 +114,57 @@ My current direction is to build projects that are not only visually polished, b
 
 <h3>AI-Powered Crypto Crime Intelligence Platform</h3>
 
-An investigation-focused intelligence platform designed to analyze wallet behavior, transaction flows, suspicious patterns, and risk levels using graph-based features and machine learning.
+<p>
+An investigation-focused intelligence platform for analyzing wallet behavior, transaction flows, suspicious patterns, and wallet-level risk using graph-based features and machine learning.
+</p>
 
-<b>Core Idea</b>  
-Convert raw crypto transaction activity into an investigator-friendly risk intelligence dashboard.
+<b>What it demonstrates</b>
 
-<b>Tech Direction</b>  
+- Cybersecurity-focused product thinking
+- Graph-based investigation workflows
+- ML-based risk scoring direction
+- Backend + dashboard architecture
+- Explainable suspicious wallet analysis
+
+<b>Tech Direction</b>
+
 FastAPI · React · Python · Neo4j · NetworkX · XGBoost · Docker
 
-<b>Highlights</b>
+<br/><br/>
 
-- Wallet and transaction graph modeling
-- Suspicious behavior analysis
-- Risk scoring using graph-based features
-- Investigator dashboard for visual exploration
-- Explainable ML-based flagging approach
+<a href="https://github.com/Tejasvi-eng/crypto-crime-intelligence-platform">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>CNN Visualizer</h3>
 
-An educational deep learning visualization project that helps users understand how Convolutional Neural Networks process images through different layers.
+<p>
+An educational deep learning visualization project that explains how Convolutional Neural Networks process images through different layers.
+</p>
 
-<b>Core Idea</b>  
-Make CNN concepts easier to understand through interactive layer-wise visualization.
+<b>What it demonstrates</b>
 
-<b>Tech Direction</b>  
+- Deep learning concept visualization
+- Clean frontend learning interface
+- Educational product thinking
+- Layer-wise CNN explanation
+- Student-friendly AI learning tool
+
+<b>Tech Direction</b>
+
 React · Python · Deep Learning · Visualization
 
-<b>Highlights</b>
+<br/><br/>
 
-- Visual explanation of CNN flow
-- Layer-wise understanding of feature extraction
-- Beginner-friendly learning interface
-- Useful for students and concept revision
+<a href="https://cnn-visualizer-ffaj.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white" />
+</a>
+<a href="https://github.com/Tejasvi-eng/cnn-visualizer">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -146,41 +174,54 @@ React · Python · Deep Learning · Visualization
 
 <h3>Agrisure</h3>
 
-A concept-driven AI + Blockchain + IoT platform focused on helping Indian farmers reduce market risk in oilseed trading.
+<p>
+A concept-driven AI + Blockchain + IoT platform focused on helping Indian farmers reduce market risk in oilseed trading through forecasting, quality verification, and trusted settlement.
+</p>
 
-<b>Core Idea</b>  
-Support farmers with price forecasting, quality verification, and trusted trade settlement.
+<b>What it demonstrates</b>
 
-<b>Tech Direction</b>  
+- Real-world problem framing
+- Agriculture + AI application thinking
+- Risk reduction through forecasting
+- Blockchain escrow concept
+- IoT-based quality verification direction
+
+<b>Tech Direction</b>
+
 AI/ML · Blockchain · IoT · Forecasting · Web Dashboard
 
-<b>Highlights</b>
+<br/><br/>
 
-- Farmer-focused hedging support
-- Market price forecasting
-- Blockchain-based escrow concept
-- IoT-based quality verification
-- Designed for real-world agricultural risk reduction
+<a href="https://github.com/Tejasvi-eng">
+  <img src="https://img.shields.io/badge/Project%20Details-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>Portfolio Website</h3>
 
-A personal portfolio designed to present my journey, projects, achievements, and leadership work through a clean recruiter-focused experience.
+<p>
+A personal portfolio built to present my projects, achievements, leadership work, and technical journey through a clean, recruiter-friendly experience.
+</p>
 
-<b>Core Idea</b>  
-Balance storytelling with professional readability.
+<b>What it demonstrates</b>
 
-<b>Tech Direction</b>  
-HTML · CSS · JavaScript · GSAP · React/Next.js direction
-
-<b>Highlights</b>
-
-- Recruiter-friendly project presentation
-- Story-driven achievement sections
+- Frontend development fundamentals
+- Personal brand presentation
+- Project storytelling
 - Clean visual hierarchy
-- Focused on personal brand building
+- Recruiter-focused documentation
+
+<b>Tech Direction</b>
+
+HTML · CSS · JavaScript · GSAP · React/Next.js Direction
+
+<br/><br/>
+
+<a href="https://github.com/Tejasvi-eng">
+  <img src="https://img.shields.io/badge/View%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -192,67 +233,22 @@ HTML · CSS · JavaScript · GSAP · React/Next.js direction
 
 I am actively strengthening my DSA foundation using **Java**, with a focus on building real intuition instead of memorizing patterns.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Core Patterns | Current Practice | Next Focus |
+|---|---|---|
+| Arrays | Kadane's Algorithm | Trees |
+| Hashing | Sliding Window | Graphs |
+| Binary Search | Two Pointers | Dynamic Programming |
+| Recursion | Sorting Patterns | Interview-style problem solving |
 
-### Core Patterns
-
-- Arrays
-- Hashing
-- Binary Search
-- Recursion
-
-</td>
-<td width="33%" valign="top">
-
-### Current Practice
-
-- Kadane's Algorithm
-- Sliding Window
-- Two Pointers
-- Sorting Patterns
-
-</td>
-<td width="33%" valign="top">
-
-### Next Focus
-
-- Trees
-- Graphs
-- Dynamic Programming
-- Interview-style problem solving
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br/>
 
 <a href="https://leetcode.com/tejasvijadhao/">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</div>
-
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tejasvi-eng&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-eng&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasvi-eng&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## What I’m Building Toward
+## Current Direction
 
 <table>
 <tr>
@@ -261,7 +257,7 @@ I am actively strengthening my DSA foundation using **Java**, with a focus on bu
 ### Short-Term
 
 - Improve Java DSA consistency
-- Build strong backend projects
+- Build stronger backend projects
 - Make project READMEs recruiter-friendly
 - Strengthen ML and cybersecurity fundamentals
 - Deploy polished, usable applications
@@ -271,7 +267,7 @@ I am actively strengthening my DSA foundation using **Java**, with a focus on bu
 
 ### Long-Term
 
-- Build high-impact software engineering profile
+- Build a high-impact software engineering profile
 - Work on AI + cybersecurity systems
 - Contribute to meaningful open-source projects
 - Prepare for product-based company internships
